@@ -1,0 +1,11 @@
+@mixin btn($light-c) {
+color: $light-c;
+background-color: $dark-c;
+
+margin: 0 4px;
+padding: 0 8px; 
+border-radius: 5px;  
+text-decoration: none;
+transition: all .15s ease-in-out;
+font: 200 14px 'Courier New', Courier, monospace;    
+}

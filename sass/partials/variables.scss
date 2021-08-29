@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300;1,400&display=swap');
+
+//btn variable
+$light-c: #cecab2;
+$dark-c: #54544e;
+
+//background variable
+$periwinkle: #78aa9f;
+$light-c: #cecab2;
+
+//txt variable
+$txt: #f9f9f9;
+$font-family: 'Roboto', sans-serif;
+
+
+
+
+
+
+body {
+  background-color: $periwinkle;
+}
+
+p{
+  color: $txt;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
